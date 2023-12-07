@@ -56,9 +56,4 @@ footer {
     color: #fff;
     text-align: center;
     padding: 10px 0;
-    /* footer at the bottom of the page */
-    position: fixed;
-    bottom: 0;
-    width: 100%;
-    
 }
